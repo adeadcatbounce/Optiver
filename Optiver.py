@@ -1,4 +1,4 @@
-# importing libraries and packages
+# import libraries and packages
 
 import pandas as pd
 import os
